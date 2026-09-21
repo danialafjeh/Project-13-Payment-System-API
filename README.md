@@ -8,7 +8,7 @@ Projects are numbered in development order. Higher numbers represent newer proje
 
 A backend payment system API built with Django REST Framework, designed to simulate the payment infrastructure of an online store with an internal customer wallet.
 
-The project provides a complete backend workflow for user registration, wallet management, deposits, payments, transactions, refunds, authentication, idempotency, rate limiting, API documentation, and administrative read-only access.
+The project provides a complete backend workflow for user registration, wallet management, deposits, payments, transactions, refunds, authentication, idempotency, rate limiting, API Swagger/OpenAPI documentation, and administrative read-only access.
 
 The payment provider is intentionally implemented as a mock gateway. Therefore, this project does not connect to a real bank or payment provider and does not process real money.
 
